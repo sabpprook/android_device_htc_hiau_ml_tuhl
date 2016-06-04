@@ -1,0 +1,2 @@
+add_lunch_combo omni_hiau_ml_tuhl-userdebug
+add_lunch_combo omni_hiau_ml_tuhl-eng
